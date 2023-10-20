@@ -1,8 +1,452 @@
 {
-    "users":[
-
-    ],
-    "product":[
-        
-    ]
+  "prods":[
+    {
+      "description":"Full closure silky straight 70% human hair",
+      "oldprice":17000,
+      "newprice":13500,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v10.PNG"
+    },
+    {
+      "description":"Closure pixel curls",
+      "oldprice":14000,
+      "newprice":11500,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v31.PNG"
+    },
+    {
+      "description":"Closure fringe",
+      "oldprice":30000,
+      "newprice":26999,
+      "len":"12 inches",
+      "vsrc":"./videos/VID15.mp4",
+      "isrc":""
+    },
+    {
+      "description":"4 by 4 closure wig human hair",
+      "oldprice":"",
+      "newprice":20000,
+      "len":"12 inches",
+      "vsrc":"",
+      "isrc":"./images/6.jpg"
+    },
+    {
+      "description":"Kim K closure wig, Piano human hair",
+      "oldprice":25000,
+      "newprice":20500,
+      "len":"12 inches",
+      "vsrc":"./videos/VID16.mp4",
+      "isrc":""
+    },
+    {
+      "description":"Fringe human hair",
+      "oldprice":11000,
+      "newprice":8000,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/v17.PNG"
+    },
+    {
+      "description":"Closure fringe, human hair",
+      "oldprice":33000,
+      "newprice":30500,
+      "len":"14 inches",
+      "vsrc":"",
+      "isrc":"./images/v19.PNG"
+    },
+    {
+      "description":" 4 by 4 closure wig human hair",
+      "oldprice":"",
+      "newprice":20000,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/17.jpg"
+    },
+    {
+      "description":"Vietnamese SDD closure fringe",
+      "oldprice":79000,
+      "newprice":75999,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/v34.PNG"
+    },
+    {
+      "description":"T-closure wig",
+      "oldprice":12000,
+      "newprice":8500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/v20.PNG"
+    },
+    {
+      "description":"13 by 1 jersey wig",
+      "oldprice":17000,
+      "newprice":14500,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v23.PNG"
+    },
+    {
+      "description":"T-frontal wig 10 inches",
+      "oldprice":24000,
+      "newprice":20000,
+      "len":"10 inches",
+      "vsrc":"./videos/VID12.mp4",
+      "isrc":""
+    },
+    {
+      "description":" Full frontal human hair 1",
+      "oldprice":26000,
+      "newprice":23500,
+      "len":"16 inches",
+      "vsrc":"",
+      "isrc":"./images/v11.PNG"
+    },
+    {
+      "description":" Full frontal 1",
+      "oldprice":"",
+      "newprice":30000,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/v4.PNG"
+    },
+    {
+      "description":" Wt 13 x 6 full frontal",
+      "oldprice":"",
+      "newprice":83000,
+      "len":"28 inches",
+      "vsrc":"",
+      "isrc":"./images/10.jpg"
+    },
+    {
+      "description":"Full frontal 2",
+      "oldprice":37000,
+      "newprice":33500,
+      "len":"14 inches",
+      "vsrc":"",
+      "isrc":"./images/v21.PNG"
+    },
+    {
+      "description":"Full-frontal, Brown",
+      "oldprice":31000,
+      "newprice":28500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/v14.PNG"
+    },
+    {
+      "description":"Full-frontal ventilated, 70% human hair",
+      "oldprice":22000,
+      "newprice":17500,
+      "len":"28 inches",
+      "vsrc":"",
+      "isrc":"./images/v17.PNG"
+    },
+    {
+      "description":"Frontal human hair blend Yaki",
+      "oldprice":16000,
+      "newprice":12000,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v26.PNG"
+    },
+    {
+      "description":"Full frontal tiwa 1",
+      "oldprice":26000,
+      "newprice":21500,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v40.PNG"
+    },
+    {
+      "description":"Full frontal tiwa 2",
+      "oldprice":26000,
+      "newprice":21500,
+      "len":"",
+      "vsrc":"./videos/VID44.mp4",
+      "isrc":""
+    },
+    {
+      "description":"Full frontal human hair 3",
+      "oldprice":35000,
+      "newprice":30000,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v46.PNG"
+    },
+    {
+      "description":"Full frontal human hair 4",
+      "oldprice":33000,
+      "newprice":29000,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v47.PNG"
+    },
+    {
+      "description":"T/frontal bob DD 1",
+      "oldprice":"",
+      "newprice":30000,
+      "len":"10 inches",
+      "vsrc":"./videos/VID12.mp4",
+      "isrc":""
+    },
+    {
+      "description":"T/frontal bob DD 2",
+      "oldprice":"",
+      "newprice":30000,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/15.jpg"
+    },
+    {
+      "description":"Full frontal human hair 5",
+      "oldprice":33000,
+      "newprice":28500,
+      "len":"10 inches",
+      "vsrc":"./videos/VID45.mp4",
+      "isrc":""
+    },
+    {
+      "description":" 2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/v4.PNG"
+    },
+    {
+      "description":"2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29000,
+      "len":"10 inches",
+      "vsrc":"./videos/VID6.mp4",
+      "isrc":""
+    },
+    {
+      "description":" 2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/4.jpg"
+    },
+    {
+      "description":" 2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"20 inches",
+      "vsrc":"",
+      "isrc":"./images/5.jpg"
+    },
+    {
+      "description":" 2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/2.jpg"
+    },
+    {
+      "description":"2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/3.jpg"
+    },
+    {
+      "description":" 2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":39500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/1.jpg"
+    },
+    {
+      "description":"2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/6.jpg"
+    },
+    {
+      "description":"2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/8.jpg"
+    },
+    {
+      "description":"2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/11.jpg"
+    },
+    {
+      "description":"2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/17.jpg"
+    },
+    {
+      "description":"2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/18.jpg"
+    },
+    {
+      "description":"2 by 6 Dd bulb",
+      "oldprice":"",
+      "newprice":29500,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/v24.PNG"
+    },
+    {
+      "description":"Closure wig",
+      "oldprice":13000,
+      "newprice":9500,
+      "len":"10 inches",
+      "vsrc":"./videos/VID13.mp4",
+      "isrc":""
+    },
+    {
+      "description":"Closure wig: High grade",
+      "oldprice":23000,
+      "newprice":20500,
+      "len":"",
+      "vsrc":"./videos/VID32.mp4",
+      "isrc":""
+    },
+    {
+      "description":"Super double drawn, full closure pixel curls",
+      "oldprice":102000,
+      "newprice":98000,
+      "len":"16 inches",
+      "vsrc":"",
+      "isrc":"./images/v25.PNG"
+    },
+    {
+      "description":"Fringe fluffy",
+      "oldprice":10000,
+      "newprice":8500,
+      "len":"",
+      "vsrc":"./videos/VID27.mp4",
+      "isrc":""
+    },
+    {
+      "description":"Fringe human hair",
+      "oldprice":12000,
+      "newprice":8500,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v28.PNG"
+    },
+    {
+      "description":"Omotola Bounce wig",
+      "oldprice":25000,
+      "newprice":17000,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v29.PNG"
+    },
+    {
+      "description":"Closure fringe",
+      "oldprice":30000,
+      "newprice":27000,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v36.PNG"
+    },
+    {
+      "description":"Celebrity fringe",
+      "oldprice":29000,
+      "newprice":24000,
+      "len":"",
+      "vsrc":"./videos/VID39.mp4",
+      "isrc":""
+    },
+    {
+      "description":"Sdd celebrity fringe",
+      "oldprice":33000,
+      "newprice":31500,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v41.PNG"
+    },
+    {
+      "description":"Closure wig",
+      "oldprice":12000,
+      "newprice":9000,
+      "len":"28 inches",
+      "vsrc":"./videos/VID42.mp4",
+      "isrc":""
+    },
+    {
+      "description":"Full closure, 70% human hair",
+      "oldprice":16000,
+      "newprice":13000,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v43.PNG"
+    },
+    {
+      "description":"T-closure human hair blend",
+      "oldprice":16000,
+      "newprice":12500,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v30.PNG"
+    },
+    {
+      "description":"Closure human hair blend",
+      "oldprice":14000,
+      "newprice":11500,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/v48.PNG"
+    },
+    {
+      "description":"Band wig",
+      "oldprice":12000,
+      "newprice":9500,
+      "len":"",
+      "vsrc":"./videos/VID49.mp4",
+      "isrc":""
+    },
+    {
+      "description":"90% human hair",
+      "oldprice":25000,
+      "newprice":19999,
+      "len":"20 inches",
+      "vsrc":"",
+      "isrc":"./images/56.jpg"
+    },
+    {
+      "description":"Fringe wig",
+      "oldprice":13000,
+      "newprice":11000,
+      "len":"10 inches",
+      "vsrc":"",
+      "isrc":"./images/55.jpg"
+    },
+    {
+      "description":"Full 9 closure",
+      "oldprice":12000,
+      "newprice":9000,
+      "len":"",
+      "vsrc":"",
+      "isrc":"./images/29.jpg"
+    }
+  ]
 }
